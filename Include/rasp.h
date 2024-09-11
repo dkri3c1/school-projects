@@ -3,7 +3,7 @@
 
 
 #ifdef __cplusplus
-extern "C"{
+extern "C" {
 #endif
 
 /*使用 c 裡面的函數名稱執行*/
